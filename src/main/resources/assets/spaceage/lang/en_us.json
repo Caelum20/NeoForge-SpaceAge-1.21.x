@@ -1,0 +1,13 @@
+{
+  "item.spaceage.lithium_ingot": "Lithium Ingot",
+  "item.spaceage.beryllium_ingot": "Beryllium Ingot",
+  "item.spaceage.sodium_ingot": "Sodium Ingot",
+  "item.spaceage.magnesium_ingot": "Magnesium Ingot",
+  "item.sapceage.aluminum_ingot": "Aluminum Ingot",
+
+  "block.spaceage.lithium_block": "Lithium Block",
+  "block.spaceage.beryllium_block": "Beryllium Block",
+  "block.spaceage.sodium_block": "Sodium Block",
+  "block.spaceage.magnesium_block": "Magnesium Block",
+  "block.spaceage.aluminum_block": "Aluminum Block"
+}
