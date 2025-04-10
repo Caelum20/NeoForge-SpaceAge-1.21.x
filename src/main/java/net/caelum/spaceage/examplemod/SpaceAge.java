@@ -73,6 +73,7 @@ public class SpaceAge {
             event.accept(ModItems.SODIUM_INGOT);
             event.accept(ModItems.MAGNESIUM_INGOT);
             event.accept(ModItems.ALUMINUM_INGOT);
+            event.accept(ModItems.POTASSIUM_INGOT);
         }
         if(event.getTabKey() == CreativeModeTabs.BUILDING_BLOCKS) {
             event.accept(ModBlocks.LITHIUM_BLOCK);
@@ -80,6 +81,7 @@ public class SpaceAge {
             event.accept(ModBlocks.SODIUM_BLOCK);
             event.accept(ModBlocks.MAGNESIUM_BLOCK);
             event.accept(ModBlocks.ALUMINUM_BLOCK);
+            event.accept(ModBlocks.POTASSIUM_BLOCK);
         }
     }
 
